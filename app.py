@@ -84,5 +84,5 @@ else:
     **Algorithm:** TF-IDF + Multinomial Naive Bayes
     **Accuracy:** 98.5%
     **Tech:** Python, Scikit-learn, Streamlit
-    **Created by:** Siv
+    **Created by:** Nageswari.Peta
     """)
