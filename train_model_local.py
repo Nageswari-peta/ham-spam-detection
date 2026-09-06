@@ -1,8 +1,9 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
 # --- Load data ---
 # Update this path to point to wherever your spam.xlsx file actually is
-excel_path = "spam.xlsx"
+excel_path = "spam .xlsx"
 
 df_excel = pd.read_excel(excel_path)
 df_excel.to_csv("spam.csv", index=False)
